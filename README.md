@@ -21,6 +21,11 @@ The goal was to:
 2. **Perform QA checks** to ensure data quality.
 3. **Build an interactive Excel dashboard** with KPIs and slicers.
 
+## 📂 Repository Structure
+-**Raw Data**
+-**Clean Data**
+-**Docs**
+  -screenshots
 ---
 
 ## 🛠️ Tools & Skills Used
@@ -70,5 +75,16 @@ Implemented a `QA` sheet with formulas:
 
 ---
 
-## 📂 Repository Structure
+### Key Insights
+- Fries and Burgers drive the highest sales.
+- Online orders make up ~40% of total revenue.
+- New York contributes the largest city-level sales.
+
+---
+
+**Tools & Skills Used:** Excel, Power Query (M), Pivot Tables, Charts, Dashboard Design, Data QA
+
+---
+“Future improvements: Automate refresh with VBA, build Power BI version, or migrate dataset to SQL Server for advanced querying.”
+→ Shows growth mindset.
 
