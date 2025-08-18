@@ -2,8 +2,9 @@
 
 This project demonstrates **Excel Power Query cleaning**, **QA validation**, and an **interactive reporting dashboard** built on a messy restaurant sales dataset.  
 It is part of my professional portfolio to showcase skills in **Excel, Power Query, and data analysis**.
-📄 [Read the Full Case Study](docs/case_study.md)  
-🖼 [See Dashboard & QA Screenshots](docs/screenshots/)
+
+📄 [Read the Full Case Study](/docs/case_study.md)  
+🖼 [See Dashboard & QA Screenshots](/docs/screenshots/)
 ---
 
 ## 📊 Project Overview
